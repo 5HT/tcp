@@ -6,9 +6,11 @@ Simple Erlang/OTP non-blocking TCP Server in 100 LOC dedicated to all Erlang new
 Build
 -----
 
-``
+```
 $ mad dep com pla rep
 ```
+
+MAD is simplest 1000 LOC Erlang build tool written in Erlang: http://github.com/synrc/mad
 
 Run
 ---
