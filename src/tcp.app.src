@@ -1,0 +1,7 @@
+{application, tcp,
+ [{description, "TCP Server"},
+  {vsn, "1.0"},
+  {registered, []},
+  {applications, [kernel,stdlib]},
+  {mod, { tcp, []}}
+  ]}.
